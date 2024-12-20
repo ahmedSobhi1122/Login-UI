@@ -2,6 +2,6 @@
 
 ## Screenshots
 
-![Screenshot Description](Screen.jpg)
+![Screenshot Description](Login_UI\screenshots\Screen.jpg)
 
 
