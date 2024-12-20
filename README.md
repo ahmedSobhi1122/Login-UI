@@ -2,6 +2,6 @@
 
 ## Screenshots
 
-![Screenshot Description](screenshots\Screen.jpg)
+![Screenshot Description](screenshots/Screen.jpg)
 
 
